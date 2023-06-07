@@ -1,11 +1,18 @@
-## Assignment 01- Graphviz BST
-# Athul sajikumar
+A04 - Binary Searh Tree using Graphviz
 
+Athul sajikumar
 
-#Description
+Description:
 
-Create a binary search tree using graphviz that contains seven nodes and uses a record as its shape. 
+Created a binary search tree using graphviz that contains seven nodes and used a record as its shape.
 
-### Deliverables
-bst.dot
-bst.png
+Files:
+
+#	File	Description
+
+| File | Description | 
+|:------|:------|
+|bst.dot  | file that holds graphviz code | 
+|bst.png | file that holds image of Binary search tree | 
+
+	
