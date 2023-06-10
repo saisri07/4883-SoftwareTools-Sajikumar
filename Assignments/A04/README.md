@@ -2,7 +2,7 @@
 ## A04 - Binary Searh Tree using Graphviz
 ### Athul sajikumar
 ### Description:
-Created a binary search tree using graphviz that contains seven nodes and used a record as its shape.
+Write a code to display a binary search tree using graphviz that contains seven nodes and used a record as its shape.
 
 
 
