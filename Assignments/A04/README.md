@@ -14,4 +14,6 @@ Write a code to display a binary search tree using graphviz that contains seven 
 |   1   | bst.svg       | file that holds image of Binary searh tree    |
 
 
+### Instructions
 
+------------------
