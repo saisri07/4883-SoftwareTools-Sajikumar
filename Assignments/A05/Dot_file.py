@@ -4,7 +4,7 @@ import colorsys
 
 df = pd.read_csv('family_tree_data.csv')
 
-# create different colour columns for each clan
+# create different colour blocks for each clan
 clans = list(df[' clan'].unique())
 colors = {}
 for i in clans:
