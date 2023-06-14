@@ -1,5 +1,5 @@
 ## Assignment 5 - FamilyTree via Graphviz
-### Athul
+### Athul Sajikumar
 ### Description:
 
 This week's assignment is **Family Tree via Graphviz**, which involves creating a family graph for family data that include clans. The family tree data was generated using the [site](http://mcdemarco.net/tools/family-tree-generator/lineage.html) discussed in the class. Names of the data were replaced with names from the name files provided, as the names generated are random and un-real. The `dot` and `image` of the family graph are generated using the **Graphviz** python library. All the files are included in the repo.
