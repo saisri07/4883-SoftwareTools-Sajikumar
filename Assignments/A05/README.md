@@ -22,6 +22,8 @@ This assignment involves creating a family graph for family data that include cl
 - Include the `mock_names.csv` in the current directory, it is used to rename.
 - Include the graph data generated in the current directory and rename it as `tree.csv`
 - First run the `Edit.py`, then `Dot_file.py` to edit the family data and create the dot file.
+- In the family_tree.png the rectangular shape is male and the oval shape is female and the red line is the spouse 
+- The graph is having six clans of unique colours
 
 ### Common Errors
 
