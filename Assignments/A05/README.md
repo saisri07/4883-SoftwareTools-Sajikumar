@@ -2,7 +2,7 @@
 ### Athul Sajikumar
 ### Description:
 
-This week's assignment is **Family Tree via Graphviz**, which involves creating a family graph for family data that include clans. The family tree data was generated using the [site](http://mcdemarco.net/tools/family-tree-generator/lineage.html) discussed in the class. Names of the data were replaced with names from the name files provided, as the names generated are random and un-real. The `dot` and `image` of the family graph are generated using the **Graphviz** python library. All the files are included in the repo.
+This assignment involves creating a family graph for family data that include clans. The family tree data was generated using the [site](http://mcdemarco.net/tools/family-tree-generator/lineage.html) discussed in the class. Names of the data were replaced with names from the name files provided, as the names generated are random and un-real. The `dot` and `image` of the family graph are generated using the **Graphviz** python library. All the files are included in the repo.
 
 ### Files
 
@@ -10,7 +10,7 @@ This week's assignment is **Family Tree via Graphviz**, which involves creating 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   |[Edit.py](./Edit.py)        | Python code used to edit the family tree data      |
-|   2   | [Dot_file.py](./Dot_file.py)  | Python code which generated the dot file and the family grapgh tree        |
+|   2   | [Dot_file.py](./Dot_file.py)  | Python code which generated the dot file and the family graph tree        |
 |   3   | [family_tree.dot](./family_tree.dot) | Dot file containing the family graph tree |
 |   4   | [family_tree.png](./family_tree.png) | PNG image of the family-graph tree |
 |   5   | [family_tree_data.csv](./family_tree_data.csv) | Family tree data after editing  |
