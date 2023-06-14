@@ -19,7 +19,7 @@ This assignment involves creating a family graph for family data that include cl
 ### Instructions
 
 - Make sure you install the python libraries `graphviz` and `colorsys`
-- Iclude the `mock_names.csv` in the current directory, it is used to rename.
+- Include the `mock_names.csv` in the current directory, it is used to rename.
 - Include the graph data generated in the current directory and rename it as `tree.csv`
 - First run the `Edit.py`, then `Dot_file.py` to edit the family data and create the dot file.
 
