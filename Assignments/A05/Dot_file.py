@@ -5,7 +5,7 @@ import random
 
 df = pd.read_csv('family_tree_data.csv')
 
-# create differnt color coldes for each clan
+# create differnt color blocks for each clan
 
 clans = list(df[' clan'].unique())
 colors = {}
@@ -39,17 +39,17 @@ for _, row in df.iterrows():
     node_label = f"{row[' name']}\n[{row[' byear']} - {row[' dyear']}]\nage: {row[' dage']} {row[' gender'][0]}\nclan: {clans_dict[row[' clan']]}"     
     
     if row[' gender'] == 'Male':
-        node_attributes['shape'] = 'rectangle'
+        node_attributes['shape'] = 'rectangle' #using rectangular shape for male
     else:
-        node_attributes['shape'] = 'oval'
-    graph.node(node_id, label=node_label, style='filled', fillcolor=colors[row[' clan']], **node_attributes)
+        node_attributes['shape'] = 'oval'#Oval shape for female
+    graph.node(node_id, label=node_label, style='filled', fillcolor=colors[row[' clan']], **node_attributes) 
 
-for _, row in df.iterrows():
+for _, row in df.iterrows():# Creating red colour edges betwen spouse
     spouse_id = row[' spouseId']
     if pd.notna(spouse_id):
         graph.edge(str(row['#pid']), str(int(spouse_id)), color='red')
 
-for _, row in df.iterrows():
+for _, row in df.iterrows():# Creating red colour edges between spouse
     parent_id1 = row[' parentId1']
     parent_id2 = row[' parentId2']
     if pd.notna(parent_id1):
