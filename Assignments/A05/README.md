@@ -24,7 +24,7 @@ This assignment involves creating a family graph for family data that include cl
 - Include the `clan_names.txt` in the current directory; it is used to assign clan names.
 - Include the graph data generated in the current directory and rename it as `tree.csv.`
 - First, run the `Edit.py`, then `Dot_file.py` to edit the family data and create the dot file.
-- The red line shows the relation between male and female
+- The red line shows the relation between male and female (spouse)
 
 ### Common Errors
 
