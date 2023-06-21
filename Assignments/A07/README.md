@@ -15,14 +15,15 @@ Using PySimpleGui to create gui to getting values for attributes day, month, yea
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [airports-better.json]( https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/airports-better.json) | file that holds airport code ,city and country   |
-|   2   | gui.py                 |gui design that accepts input and outputs scrap data gui o/p|
-|   3   |    1.1.png  | Example query 1|
-|   4   |    1.2.png  |Example query 1 output|
-|   5   |    2.1.png  |Example query 2| 
-|   6   |    2.2.png  |Example query 2 output|
-|   7   |    3.2.png  |Example query 3 output|
-|   8   |    3.png    |Example query 3 |
-|   9   |  main.py    | main driver file which inititate to run program    |
-|   10  | requirements.txt      | file that holds list of dependencies for this project   |
+|   2   | [gui.py](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/gui.py)|gui design that accepts input and outputs scrap data gui o/p|
+|   3   |[1.1.png](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/1.1.PNG)| Example query 1|
+|   4   |[1.2.png](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/1.2.PNG)|Example query 1 output|
+|   5   |[2.1.png](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/2.1.PNG)
+  |Example query 2| 
+|   6   |    [2.2.png](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/2.2.PNG)  |Example query 2 output|
+|   7   |    [3.2.png](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/3.2.PNG)  |Example query 3 output|
+|   8   |    [3.png](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/3.PNG)    |Example query 3 |
+|   9   |  [main.py](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/main.py)    | main driver file which inititate to run program    |
+|   10  | [requirements.txt](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/requirements.txt)   | file that holds list of dependencies for this project   |
 
 
