@@ -16,8 +16,13 @@ Using PySimpleGui to create gui to getting values for attributes day, month, yea
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | airports-better.json        | file that holds airport code ,city and country   |
 |   2   | gui.py                 |gui design that accepts input and outputs scrap data gui o/p|
-|   3   |                        |
-|   4   | main.py      | main driver file which inititate to run program    |
-|   5   | requirements.txt      | file that holds list of dependencies for this project   |
+|   3   |    1.1.png  |
+|   4   |    1.2.png  |
+|   5   |    2.1.png  |
+|   6   |    2.2.png  |
+|   7   |    3.2.png  |
+|   8   |    3.png    |
+|   9   |  main.py    | main driver file which inititate to run program    |
+|   10  | requirements.txt      | file that holds list of dependencies for this project   |
 
 
