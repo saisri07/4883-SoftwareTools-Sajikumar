@@ -1,5 +1,5 @@
 ## Assignment 07 - Web Scraping
-ATHUL SAJIKUMAR
+## ATHUL SAJIKUMAR
 ### DESCRIPTION
 This program uses Selenium to render a web page and then uses BeautifulSoup to parse the HTML.
 The program then prints the parsed HTML to the console.
@@ -15,7 +15,7 @@ Using PySimpleGui to create gui to getting values for attributes day, month, yea
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | airports-better.json        | file that holds airport code ,city and country   |
-|   2   | gui.py                 |
+|   2   | gui.py                 |gui design that accepts input and outputs scrap data gui o/p|
 |   3   |                        |
 |   4   | main.py      | main driver file which inititate to run program    |
 |   5   | requirements.txt      | file that holds list of dependencies for this project   |
