@@ -14,7 +14,7 @@ Using PySimpleGui to create gui to getting values for attributes day, month, yea
 ## FILES
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | airports-better.json        | file that holds airport code ,city and country   |
+|   1   | [airports-better.json] (        | file that holds airport code ,city and country   |
 |   2   | gui.py                 |gui design that accepts input and outputs scrap data gui o/p|
 |   3   |    1.1.png  | Example query 1|
 |   4   |    1.2.png  |Example query 1 output|
