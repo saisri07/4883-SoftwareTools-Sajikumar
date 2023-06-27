@@ -24,5 +24,17 @@ Using PySimpleGui to create gui to getting values for attributes day, month, yea
 |   8   |    [3.png](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/3.PNG)    |Example query 3 |
 |   9   |  [main.py](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/main.py)    | main driver file which inititate to run program    |
 |   10  | [requirements.txt](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/blob/main/Assignments/A07/requirements.txt)   | file that holds list of dependencies for this project   |
+## SCREENSHOTS
 
+# input1
 ![1 1](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/1fab2bb1-9239-476a-a630-18b2289f2f3d)
+# Output1
+![1 2](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/b6344bf1-93af-434c-a756-8f658b31a030)
+# input2
+![2 1](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/9581d1ea-64fc-4061-a0a3-0991fbaff02d)
+# Output2
+![2 2](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/e469f298-f88e-4244-a0fd-e014cdc7b8c1)
+# Input3
+![3](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/16b5d995-d638-432f-a7c3-e1b511ec6465)
+# Outtput3
+![3 2](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/55a0eb2d-e1af-4bc7-8cfd-ada3a0066e97)
