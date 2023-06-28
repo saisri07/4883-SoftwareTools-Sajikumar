@@ -36,5 +36,5 @@ Using PySimpleGui to create gui to getting values for attributes day, month, yea
 ![2 2](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/e469f298-f88e-4244-a0fd-e014cdc7b8c1)
 # Input3
 ![3](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/16b5d995-d638-432f-a7c3-e1b511ec6465)
-# Outtput3
+# Output3
 ![3 2](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/55a0eb2d-e1af-4bc7-8cfd-ada3a0066e97)
