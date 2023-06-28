@@ -32,3 +32,6 @@ This assignment involves creating a family graph for family data that include cl
     - Install the required libraries
     - Set the correct path to access Files
     - Set correct file names and extensions to avoid errors
+      
+## OUTPUT IMAGE
+![family_tree-8](https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/71609e05-70e7-4a69-bd2c-1e1cdffd5fe7)
