@@ -1,6 +1,31 @@
-# Page
+---
+description: GENERATING FAMILY TREE USING GRAPHVIZ
+cover: .gitbook/assets/family_tree-8.png
+coverY: 250
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-```markdown
+# 😀 Page 2
+
+{% embed url="https://www.youtube.com/watch?v=_iPPdFdLM3M" %}
+
+{% code title="" lineNumbers="true" fullWidth="false" %}
+````markdown
+
+```python
 // Import the required libraries
 import pandas as pd
 import graphviz
@@ -74,4 +99,6 @@ graph.save('family_tree.dot')
 
 # Render the graph as a PNG image
 graph.render('family_tree', format='png', view=True)
-```
+
+````
+{% endcode %}
