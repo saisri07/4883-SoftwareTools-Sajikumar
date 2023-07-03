@@ -1,12 +1,9 @@
 # A06 - REGEX(Regular expression)
 ## Athul sajikumar
 
-
-
-# Description
-A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
-RegEx can be used to check if a string contains the specified search pattern.
-
+## Description
+    A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
+    RegEx can be used to check if a string contains the specified search pattern.
 
 <img width="750" alt="Screenshot 2023-07-03 at 6 22 33 PM" src="https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/4917d317-f48e-4aed-aac3-e3ed0317e22e">
 
@@ -19,3 +16,4 @@ Regex is not limited to programming languages alone. It can also be used in comm
 
 String manipulation plays a crucial role in software development. Many programming tasks involve handling and manipulating strings, such as data validation, data extraction, text parsing, and formatting. Regular expressions provide a powerful and efficient way to accomplish these tasks with flexibility and precision.
 
+<img width="750" alt="Screenshot 2023-07-03 at 6 31 00 PM" src="https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/1328020c-49db-44c3-a516-916dee0617bc">
