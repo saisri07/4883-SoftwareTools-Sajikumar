@@ -7,6 +7,7 @@
 A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
 RegEx can be used to check if a string contains the specified search pattern.
 
+
 A regular expression, commonly known as regex, is a powerful tool used for manipulating strings in programming languages. In software development, strings are encountered everywhere, whether they contain numbers, alphabets, or special characters. As a result, string manipulation is a crucial aspect of software development.
 Regex allows you to define patterns that describe specific sequences of characters. With regex, you can perform operations like searching for patterns, replacing text, splitting strings, and extracting specific parts of a string that match the defined pattern.
 
