@@ -2,8 +2,7 @@
 ## Athul sajikumar
 
 ## Description
-    A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
-    RegEx can be used to check if a string contains the specified search pattern.
+A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern. RegEx can be used to check if a string contains the specified search pattern.
 
 <img width="750" alt="Screenshot 2023-07-03 at 6 22 33 PM" src="https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/4917d317-f48e-4aed-aac3-e3ed0317e22e">
 
