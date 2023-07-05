@@ -13,6 +13,5 @@ Every programming language typically has its own built-in support for regular ex
 
 Regex is not limited to programming languages alone. It can also be used in command-line utilities or text editors like Sublime Text or Visual Studio Code. These tools often provide regex-based search and replace functionality, allowing you to work with strings in a text-based context.
 
-String manipulation plays a crucial role in software development. Many programming tasks involve handling and manipulating strings, such as data validation, data extraction, text parsing, and formatting. Regular expressions provide a powerful and efficient way to accomplish these tasks with flexibility and precision.
 
 <img width="750" alt="Screenshot 2023-07-03 at 6 31 00 PM" src="https://github.com/ATHUL107/4883-SoftwareTools-Sajikumar/assets/135656232/1328020c-49db-44c3-a516-916dee0617bc">
