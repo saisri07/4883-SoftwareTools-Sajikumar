@@ -1,5 +1,8 @@
+# A08 - Fast Api with Covid Data
+## ATHUL SAJIKUMAR
+## Description:
 
-
+This project will create a RESTful API using FastAPI that provides access to COVID-19 data. The API will fetch the data from data.csv (covid data) and expose endpoints to retrieve various statistics related to COVID-19 cases. 
 
 
 
@@ -208,7 +211,16 @@
             "avg_deaths": 23.149139120523127,
             "success": true
         }
-        
+
+
+        ## Files
+
+|   #   | File            | Description                                        |
+| :---: | --------------- | -------------------------------------------------- |
+|   1   |       | file that holds covid data    |
+|   2  |      | file that holds python code for api routes    |
+|   3 |      | file that holds list of dependencies for this project    |
+
         
 ### How to run the code
 
