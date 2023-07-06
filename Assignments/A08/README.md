@@ -217,9 +217,9 @@ This project will create a RESTful API using FastAPI that provides access to COV
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   |       | file that holds covid data    |
-|   2  |      | file that holds python code for api routes    |
-|   3 |      | file that holds list of dependencies for this project    |
+|   1   |   data.csv    | file that holds covid data    |
+|   2  |    api.py       | file that holds python code for api routes    |
+
 
         
 ### How to run the code
