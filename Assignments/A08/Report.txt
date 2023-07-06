@@ -4,4 +4,4 @@
 
 - In the deaths route, three parameters: country, region, and year were used to get filtered data.
 - Also in the cases route, three parameters: country, region, and year were used to get filtered data.
-- The challenge encountered during implementing max_deaths and min_deaths routes was to check if the min_data and max_date both are provided or not. A failure response is returned if only one of these parameters is given.
+- The challenge encountered during implementing max_deaths and min_deaths routes was to check if the min_data and max_data both are provided or not. A failure response is returned if only one of these parameters is given.
