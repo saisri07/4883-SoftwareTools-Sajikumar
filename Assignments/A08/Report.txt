@@ -1,0 +1,7 @@
+- To implement the given API each endpoint is defined and functions are written to return the response for that endpoint.
+- To get the parameter for the API query parameter technique was used.
+- For each query parameter default value was set to None.
+
+- In the deaths route, three parameters: country, region, and year were used to get filtered data.
+- Also in the cases route, three parameters: country, region, and year were used to get filtered data.
+- The challenge encountered during implementing max_deaths and min_deaths routes was to check if the min_data and max_date both are provided or not. A failure response is returned if only one of these parameters is given.
